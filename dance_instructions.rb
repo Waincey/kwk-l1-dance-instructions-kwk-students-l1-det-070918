@@ -10,4 +10,5 @@ def base_footwork
   puts "Finishing with a small skip-step backward"
 end
 
-def 
+def skip_step(starting_foot)
+  puts ""
