@@ -1,3 +1,4 @@
 # Code your methods below
 
-def 
+def starting_stance
+  puts ""
